@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Shopping\rect\bin\Debug\rect.exe.config
+C:\Users\HP\source\repos\Shopping\rect\bin\Debug\rect.exe
+C:\Users\HP\source\repos\Shopping\rect\bin\Debug\rect.pdb
+C:\Users\HP\source\repos\Shopping\rect\obj\Debug\rect.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Shopping\rect\obj\Debug\rect.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Shopping\rect\obj\Debug\rect.exe
+C:\Users\HP\source\repos\Shopping\rect\obj\Debug\rect.pdb

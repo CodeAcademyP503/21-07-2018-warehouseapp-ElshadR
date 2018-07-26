@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Shopping\ShoppingWindowForm\bin\Debug\ShoppingWindowForm.exe.config
+C:\Users\HP\source\repos\Shopping\ShoppingWindowForm\bin\Debug\ShoppingWindowForm.exe
+C:\Users\HP\source\repos\Shopping\ShoppingWindowForm\bin\Debug\ShoppingWindowForm.pdb
+C:\Users\HP\source\repos\Shopping\ShoppingWindowForm\bin\Debug\Shopping.dll
+C:\Users\HP\source\repos\Shopping\ShoppingWindowForm\bin\Debug\Shopping.pdb
+C:\Users\HP\source\repos\Shopping\ShoppingWindowForm\obj\Debug\ShoppingWindowForm.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Shopping\ShoppingWindowForm\obj\Debug\ShoppingWindowForm.mainForm.resources
+C:\Users\HP\source\repos\Shopping\ShoppingWindowForm\obj\Debug\ShoppingWindowForm.Properties.Resources.resources
+C:\Users\HP\source\repos\Shopping\ShoppingWindowForm\obj\Debug\ShoppingWindowForm.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Shopping\ShoppingWindowForm\obj\Debug\ShoppingWindowForm.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Shopping\ShoppingWindowForm\obj\Debug\ShoppingWindowForm.csproj.CopyComplete
+C:\Users\HP\source\repos\Shopping\ShoppingWindowForm\obj\Debug\ShoppingWindowForm.exe
+C:\Users\HP\source\repos\Shopping\ShoppingWindowForm\obj\Debug\ShoppingWindowForm.pdb
+C:\Users\HP\source\repos\Shopping\ShoppingWindowForm\obj\Debug\ShoppingWindowForm.Forms.Menecer.resources
+C:\Users\HP\source\repos\Shopping\ShoppingWindowForm\obj\Debug\ShoppingWindowForm.Forms.Administrator.resources

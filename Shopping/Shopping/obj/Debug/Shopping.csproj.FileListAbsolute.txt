@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\Shopping\Shopping\bin\Debug\Shopping.dll
+C:\Users\HP\source\repos\Shopping\Shopping\bin\Debug\Shopping.pdb
+C:\Users\HP\source\repos\Shopping\Shopping\obj\Debug\Shopping.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Shopping\Shopping\obj\Debug\Shopping.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Shopping\Shopping\obj\Debug\Shopping.dll
+C:\Users\HP\source\repos\Shopping\Shopping\obj\Debug\Shopping.pdb
